@@ -1,2 +1,2 @@
 # Atividade-Implementa-o-CPU-e-ULA
-Projeto de Performance
+Neste projeto de performance, estamos implementando uma CPU simulada em Python. A CPU possui cinco registradores e suporta um conjunto de instruções definido pela ISA. Temos três funções principais: buscarEDecodificarInstrucao, calcularProximaInstrucao e lerOperadoresExecutarInstrucao. Essas funções são responsáveis por buscar e decodificar a próxima instrução, calcular o próximo valor do contador de programa e executar a instrução, respectivamente. O código também possui a opção de depuração (CPU_DEBUG) para exibir mensagens no terminal durante a execução. A implementação permite simular o funcionamento de uma CPU com registradores e operações básicas da ISA.
